@@ -1,4 +1,4 @@
-# Hi, I'm Nur Kholik Katu 👋
+# Hi, I'm Nur Kholid Katu 👋
 
 🎓 Electrical Engineering Graduate | 💻 ICT Enthusiast | 📚 Lifelong Learner  
 📍 Indonesia | 🌐 [LinkedIn](https://linkedin.com/in/nurkholikkatu) | ✉️ kholikkatu@gmail.com  
