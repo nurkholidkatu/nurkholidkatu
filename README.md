@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nur Kholik Katu 👋
 
-<!--
-**nurkholidkatu/nurkholidkatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Graduate | 💻 ICT Enthusiast | 📚 Lifelong Learner  
+📍 Indonesia | 🌐 [LinkedIn](https://linkedin.com/in/nurkholikkatu) | ✉️ kholikkatu@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Electrical Engineering graduate from Hasanuddin University with experience in **core network**, **cloud solutions**, and **network automation**. Skilled in **Python**, **Linux**, **networking**, and **project management**. Passionate about **telecommunication**, **programming**, and **technical innovation**.
+
+---
+
+## Experience
+- **Core Network Engineer** – Huawei Indonesia *(2024 – Present)*  
+  Deployment, troubleshooting, and migration of **4G/5G core network** systems.  
+- **Network Technology Intern** – Huawei Indonesia *(2023 – 2024)*  
+  Worked with **Cloud Core** & **Transmission Network** equipment.  
+- **Electrical Engineering Intern** – Telkom Indonesia *(2022)*  
+
+---
+
+## Skills
+**Networking & Telecom**: 5GC, vEPC, TCP/IP, BGP, OSPF  
+**Programming**: Python, LaTeX  
+**Linux**: SysAdmin, troubleshooting  
+**Tools**: Microsoft Office, Google Workspace, Corel Draw  
+
+---
+
+## Training
+- Google Cloud & DevOps – Dicoding *(2024)*  
+- 5G Network Engineer Associate – Train4best *(2022)*  
+- CCNA (ITN, SRWE, ENSA, DevNet) – Cisco *(2022)*  
+
+---
+
+⭐ *"Code with purpose, automate for impact."*
