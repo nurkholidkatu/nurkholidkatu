@@ -22,7 +22,7 @@ Electrical Engineering graduate from Hasanuddin University with experience in co
 ## Skills
 Networking & Telecom: 5GC, vEPC, TCP/IP, BGP, OSPF  
 Programming: Python, LaTeX  
-Linux: SysAdmin, troubleshooting  
+Linux: SysAdmin, Bash  
 Tools: Microsoft Office, Google Workspace, Corel Draw  
 
 ---
