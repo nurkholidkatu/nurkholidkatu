@@ -29,7 +29,7 @@ Tools: Microsoft Office, Google Workspace, Corel Draw
 
 ## Training
 - HCIA Cloud Computing - Huawei Academy (2025)
-- CCNP (Advance Routing and Core Networking) - Cisco Academy (2025)
+- CCNP: Advance Routing and Core Networking - Cisco Academy (2025)
 - Google Cloud & DevOps – Dicoding Academy (2024)  
 - 5G Network Engineer Associate – Train4best (2022)  
-- CCNA (ITN, SRWE, ENSA, DevNet) – Cisco Academy (2022)  
+- CCNA: Networking, Security, and Automation – Cisco Academy (2022)  
